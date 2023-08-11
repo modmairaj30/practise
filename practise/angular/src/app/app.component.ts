@@ -18,12 +18,12 @@ export class AppComponent {
   title = 'Mirha Meraj Fatima';
 /** The images for the carousel */
 carouselImages = [
-  '/assets/example-1.jpeg',
-  '/assets/example-2.jpeg',
-  '/assets/example-3.jpeg',
-  '/assets/example-4.jpeg',
-  '/assets/example-5.jpeg',
-  '/assets/example-6.jpeg'
+  '/mirha/assets/example-1.jpeg',
+  '/mirha/assets/example-2.jpeg',
+  '/mirha/assets/example-3.jpeg',
+  '/mirha/assets/example-4.jpeg',
+  '/mirha/assets/example-5.jpeg',
+  '/mirha/assets/example-6.jpeg'
 ]
 /** The current image by index */
 currentImage: number;
